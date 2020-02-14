@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#aab7c9</color>
+    <color name="colorPrimaryDark">#003f7d</color>
+    <color name="colorAccent">#f5a000</color>
+    <color name="dark_blue">#003f7d</color>
+    <color name="grey_color">#aab7c9</color>
+    <color name="yellow_color">#f5a000</color>
+    <color name="light_grey">#d5e6f7</color>
+    <color name="white_color">#ffffff</color>
+    <color name="txt_layout_color">#d8e2ee</color>
+    <color name="red_color">#ee3131</color>
+    <color name="black_color">#000000</color>
+    <color name="sky_blue">#42a5f5</color>
+    <color name="password_toogle_color">#a8b6c8</color>
+    <color name="default_indicator">#dbe2ea</color>
 </resources>
